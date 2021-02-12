@@ -40,7 +40,7 @@ $Filename = "C:\Temp2\ESXiHost_ScsiLun_Paths_SanID_Vendor_Model_CanonicalName_Lu
 #
 $Report = @()
 #
-#$vCenters = "vCenter_anem"
+#$vCenters = "vCenter_name"
 
 Foreach($vCenter in $vCenters){
 
