@@ -1,2 +1,2 @@
 # SAN-LUN-Details
-Script to collect SAN Storage Details
+A very early PowerCLI Script I wrote to collect SAN Storage Details
